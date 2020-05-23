@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/intwiff/static/css/main.6a083515.chunk.css",
-    "main.js": "/intwiff/static/js/main.6dba93b4.chunk.js",
-    "main.js.map": "/intwiff/static/js/main.6dba93b4.chunk.js.map",
-    "runtime-main.js": "/intwiff/static/js/runtime-main.9d5603e4.js",
-    "runtime-main.js.map": "/intwiff/static/js/runtime-main.9d5603e4.js.map",
-    "static/js/2.226a3ae7.chunk.js": "/intwiff/static/js/2.226a3ae7.chunk.js",
-    "static/js/2.226a3ae7.chunk.js.map": "/intwiff/static/js/2.226a3ae7.chunk.js.map",
+    "main.css": "/intwiff/static/css/main.b0fef55a.chunk.css",
+    "main.js": "/intwiff/static/js/main.866fb247.chunk.js",
+    "main.js.map": "/intwiff/static/js/main.866fb247.chunk.js.map",
+    "runtime-main.js": "/intwiff/static/js/runtime-main.bfd01343.js",
+    "runtime-main.js.map": "/intwiff/static/js/runtime-main.bfd01343.js.map",
+    "static/js/2.7693a10a.chunk.js": "/intwiff/static/js/2.7693a10a.chunk.js",
+    "static/js/2.7693a10a.chunk.js.map": "/intwiff/static/js/2.7693a10a.chunk.js.map",
     "static/css/3.9618f9c4.chunk.css": "/intwiff/static/css/3.9618f9c4.chunk.css",
-    "static/js/3.5d87ab5a.chunk.js": "/intwiff/static/js/3.5d87ab5a.chunk.js",
-    "static/js/3.5d87ab5a.chunk.js.map": "/intwiff/static/js/3.5d87ab5a.chunk.js.map",
+    "static/js/3.393cb6e4.chunk.js": "/intwiff/static/js/3.393cb6e4.chunk.js",
+    "static/js/3.393cb6e4.chunk.js.map": "/intwiff/static/js/3.393cb6e4.chunk.js.map",
     "index.html": "/intwiff/index.html",
-    "precache-manifest.a59852ec01b84b3a5c28ec4d3b2f1de4.js": "/intwiff/precache-manifest.a59852ec01b84b3a5c28ec4d3b2f1de4.js",
+    "precache-manifest.50899f755e31fe770601bc49512fa8fc.js": "/intwiff/precache-manifest.50899f755e31fe770601bc49512fa8fc.js",
     "service-worker.js": "/intwiff/service-worker.js",
     "static/css/3.9618f9c4.chunk.css.map": "/intwiff/static/css/3.9618f9c4.chunk.css.map",
-    "static/css/main.6a083515.chunk.css.map": "/intwiff/static/css/main.6a083515.chunk.css.map",
-    "static/js/2.226a3ae7.chunk.js.LICENSE.txt": "/intwiff/static/js/2.226a3ae7.chunk.js.LICENSE.txt",
-    "static/media/NavBar.css": "/intwiff/static/media/Segoe UI.9a293118.woff"
+    "static/css/main.b0fef55a.chunk.css.map": "/intwiff/static/css/main.b0fef55a.chunk.css.map",
+    "static/js/2.7693a10a.chunk.js.LICENSE.txt": "/intwiff/static/js/2.7693a10a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d5603e4.js",
-    "static/js/2.226a3ae7.chunk.js",
-    "static/css/main.6a083515.chunk.css",
-    "static/js/main.6dba93b4.chunk.js"
+    "static/js/runtime-main.bfd01343.js",
+    "static/js/2.7693a10a.chunk.js",
+    "static/css/main.b0fef55a.chunk.css",
+    "static/js/main.866fb247.chunk.js"
   ]
 }
