@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "775a2d058ad697943a066bddf1e45a10",
+    "revision": "d18ddfff06b910df372e1e61cf51ddcc",
     "url": "/intwiff/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/intwiff/static/css/3.9618f9c4.chunk.css"
   },
   {
-    "revision": "7ecb8f155c96c80b2dce",
+    "revision": "67ea845f50ce8752a55f",
     "url": "/intwiff/static/css/main.b0fef55a.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/intwiff/static/js/3.393cb6e4.chunk.js"
   },
   {
-    "revision": "7ecb8f155c96c80b2dce",
-    "url": "/intwiff/static/js/main.866fb247.chunk.js"
+    "revision": "67ea845f50ce8752a55f",
+    "url": "/intwiff/static/js/main.93d962f4.chunk.js"
   },
   {
     "revision": "939a4a2718feb74e8507",
