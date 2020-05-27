@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/intwiff/static/css/main.151e1c0b.chunk.css",
-    "main.js": "/intwiff/static/js/main.a5fb06a4.chunk.js",
-    "main.js.map": "/intwiff/static/js/main.a5fb06a4.chunk.js.map",
-    "runtime-main.js": "/intwiff/static/js/runtime-main.1c19958b.js",
-    "runtime-main.js.map": "/intwiff/static/js/runtime-main.1c19958b.js.map",
+    "main.css": "/intwiff/static/css/main.e1fe059a.chunk.css",
+    "main.js": "/intwiff/static/js/main.3a56e6cf.chunk.js",
+    "main.js.map": "/intwiff/static/js/main.3a56e6cf.chunk.js.map",
+    "runtime-main.js": "/intwiff/static/js/runtime-main.baf3a74f.js",
+    "runtime-main.js.map": "/intwiff/static/js/runtime-main.baf3a74f.js.map",
     "static/css/2.34dcc6c8.chunk.css": "/intwiff/static/css/2.34dcc6c8.chunk.css",
-    "static/js/2.2f443c7e.chunk.js": "/intwiff/static/js/2.2f443c7e.chunk.js",
-    "static/js/2.2f443c7e.chunk.js.map": "/intwiff/static/js/2.2f443c7e.chunk.js.map",
-    "static/css/3.9618f9c4.chunk.css": "/intwiff/static/css/3.9618f9c4.chunk.css",
-    "static/js/3.ed7b7ca4.chunk.js": "/intwiff/static/js/3.ed7b7ca4.chunk.js",
-    "static/js/3.ed7b7ca4.chunk.js.map": "/intwiff/static/js/3.ed7b7ca4.chunk.js.map",
+    "static/js/2.b060cec1.chunk.js": "/intwiff/static/js/2.b060cec1.chunk.js",
+    "static/js/2.b060cec1.chunk.js.map": "/intwiff/static/js/2.b060cec1.chunk.js.map",
+    "static/css/3.0e2999b3.chunk.css": "/intwiff/static/css/3.0e2999b3.chunk.css",
+    "static/js/3.d68c5f7c.chunk.js": "/intwiff/static/js/3.d68c5f7c.chunk.js",
+    "static/js/3.d68c5f7c.chunk.js.map": "/intwiff/static/js/3.d68c5f7c.chunk.js.map",
     "index.html": "/intwiff/index.html",
-    "precache-manifest.3d4ee1f2eed2083d5ae1c170f8de75be.js": "/intwiff/precache-manifest.3d4ee1f2eed2083d5ae1c170f8de75be.js",
+    "precache-manifest.5c64878d1d1c9ebfd816090ab83fef48.js": "/intwiff/precache-manifest.5c64878d1d1c9ebfd816090ab83fef48.js",
     "service-worker.js": "/intwiff/service-worker.js",
     "static/css/2.34dcc6c8.chunk.css.map": "/intwiff/static/css/2.34dcc6c8.chunk.css.map",
-    "static/css/3.9618f9c4.chunk.css.map": "/intwiff/static/css/3.9618f9c4.chunk.css.map",
-    "static/css/main.151e1c0b.chunk.css.map": "/intwiff/static/css/main.151e1c0b.chunk.css.map",
-    "static/js/2.2f443c7e.chunk.js.LICENSE.txt": "/intwiff/static/js/2.2f443c7e.chunk.js.LICENSE.txt"
+    "static/css/3.0e2999b3.chunk.css.map": "/intwiff/static/css/3.0e2999b3.chunk.css.map",
+    "static/css/main.e1fe059a.chunk.css.map": "/intwiff/static/css/main.e1fe059a.chunk.css.map",
+    "static/js/2.b060cec1.chunk.js.LICENSE.txt": "/intwiff/static/js/2.b060cec1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c19958b.js",
+    "static/js/runtime-main.baf3a74f.js",
     "static/css/2.34dcc6c8.chunk.css",
-    "static/js/2.2f443c7e.chunk.js",
-    "static/css/main.151e1c0b.chunk.css",
-    "static/js/main.a5fb06a4.chunk.js"
+    "static/js/2.b060cec1.chunk.js",
+    "static/css/main.e1fe059a.chunk.css",
+    "static/js/main.3a56e6cf.chunk.js"
   ]
 }
