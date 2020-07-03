@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "618ed73378ef1db7739ad4ba7d00c8c3",
+    "revision": "d8ddd8ecace85db2b68527b4afd0d66c",
     "url": "/intwiff/index.html"
   },
   {
-    "revision": "638531b2dc3ce8d9e1e4",
+    "revision": "ea78f7dd69e2de5f914c",
     "url": "/intwiff/static/css/2.34dcc6c8.chunk.css"
   },
   {
-    "revision": "5d0360e4fd93215f3d5c",
+    "revision": "e698a3b0f3177cc07f76",
     "url": "/intwiff/static/css/main.41dc671d.chunk.css"
   },
   {
-    "revision": "638531b2dc3ce8d9e1e4",
-    "url": "/intwiff/static/js/2.45ad0b18.chunk.js"
+    "revision": "ea78f7dd69e2de5f914c",
+    "url": "/intwiff/static/js/2.0fb1ac78.chunk.js"
   },
   {
     "revision": "2628ec9ef617ec22e7c4d90992e7a9bd",
-    "url": "/intwiff/static/js/2.45ad0b18.chunk.js.LICENSE.txt"
+    "url": "/intwiff/static/js/2.0fb1ac78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d0360e4fd93215f3d5c",
-    "url": "/intwiff/static/js/main.a53f9951.chunk.js"
+    "revision": "e698a3b0f3177cc07f76",
+    "url": "/intwiff/static/js/main.eb8d40dd.chunk.js"
   },
   {
     "revision": "b328b24b9ec4bd7dc1f6",
